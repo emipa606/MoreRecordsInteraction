@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: time lovin -->
+  <TMB_TimeLovin.label>time lovin</TMB_TimeLovin.label>
+  <!-- EN: Total time spent getting lovin. -->
+  <TMB_TimeLovin.description>Total time spent getting lovin.</TMB_TimeLovin.description>
+  <!-- EN: time social fight -->
+  <TMB_TimeSocialFight.label>time social fight</TMB_TimeSocialFight.label>
+  <!-- EN: Total time spent social fight. -->
+  <TMB_TimeSocialFight.description>Total time spent social fight.</TMB_TimeSocialFight.description>
+</LanguageData>
